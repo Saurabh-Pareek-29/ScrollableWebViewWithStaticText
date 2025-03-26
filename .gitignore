@@ -1,0 +1,30 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+*.xcodeproj/project.xcuserdatad
+.idea/
+# User-specific files
+*.swp
+*.swo
+*.log
+*.tmp
+# Build products
+build/
+DerivedData/
+*.xcarchive
+# Archives
+*.ipa
+*.app
+# CocoaPods
+Pods/
+# Carthage
+Carthage/Build/
+# Swift Package Manager
+.swiftpm/
+Package.pins
+Package.resolved
+# Xcode 11+
+.xcdebugger/
